@@ -6,7 +6,7 @@
 
 ## Speciality
  - JavaScript
- - TypeScript (I'm still studying about it, so I don't know much.)
+ - TypeScript (I'm still studying about it, so I don't know much)
 
 ## Contact
 
