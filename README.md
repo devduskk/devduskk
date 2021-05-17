@@ -5,8 +5,9 @@ Hello there, my name is dusk and I've been a bot developer for 2 years I think, 
 ### About Me
 
 🔭 Actually, I only work in Discord Bot's, because I'm still studying about Web Development.
+
 🎯 Where you can find me:  
-<a href="https://discordapp.com/users/784557376913014814"><img src="https://img.shields.io/badge/n0tdusk%232192-000000?style=flat-square&logo=discord"></a>
+<a href="https://discordapp.com/users/784557376913014814"><img src="https://img.shields.io/badge/dusk%232192-000000?style=flat-square&logo=discord"></a>
 
    
 ### 🛠 Technologies
