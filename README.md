@@ -9,5 +9,5 @@
 
 
 ### ⚙️ GitHub Stats
-![n0tdusk's GitHub stats](https://github-readme-stats.vercel.app/api?username=n0tdusk&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n0tdusk&layout=compact&theme=tokyonight)  
+![plug's GitHub stats](https://github-readme-stats.vercel.app/api?username=realplug&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realplug&layout=compact&theme=tokyonight)  
