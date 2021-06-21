@@ -1,9 +1,9 @@
 ### About Me
 
-🇧🇷 Olá! Bom, para quem não me conhece ainda, meu nome é Nicollas Alves, tenho 14 anos e sou conhecido na comunidade pelo nickname Dusk. Atualmente, sou um Desenvolvedor de Bots para o Discord e faço utilizando NodeJS (Discord.js) no momento. (Em breve será em TypeScript e Java)
+Olá! Bom, para quem não me conhece ainda, meu nome é Nicollas Alves, tenho 14 anos e sou conhecido na comunidade pelo nickname Dusk. Atualmente, sou um Desenvolvedor de Bots para o Discord e faço utilizando NodeJS (Discord.js) no momento. (Em breve será em TypeScript e Java)
 
 
-🇺🇸 Hello! Well, for those who do not know me yet, my name is Nicollas Alves, I'm 14 years old and I'm known in the community by the nickname Dusk. I'm currently a Bot Developer for Discord and do so using NodeJS (Discord.js) at the moment. (Soon it'll be in TypeScript and Java)
+Hello! Well, for those who do not know me yet, my name is Nicollas Alves, I'm 14 years old and I'm known in the community by the nickname Dusk. I'm currently a Bot Developer for Discord and do so using NodeJS (Discord.js) at the moment. (Soon it'll be in TypeScript and Java)
    
 ### 🛠 Technologies
 
